@@ -1,6 +1,6 @@
 <!-- Banner / logotyp -->
 <p align="center">
-  <img src="profile/banner.png" alt="Burdy – digital konsultbyrå" width="100%" />
+  <img src="./banner.png" alt="Burdy – digital konsultbyrå" width="100%" />
 </p>
 
 <h1 align="center">Burdy</h1>
@@ -37,7 +37,7 @@ Burdy är en digital konsultbyrå baserad i Stockholm som hjälper företag att 
 
 ### Tekniker vi älskar
 
-TypeScript · React · Next.js · Node.js · Python · PostgreSQL · AWS · Vercel · Docker
+TypeScript · React · Next.js · Dotnet · Python · PostgreSQL · GCP · Azure · Docker
 
 ### Våra projekt
 
@@ -67,7 +67,7 @@ Burdy is a digital consultancy based in Stockholm, helping companies build moder
 
 ### Tech we love
 
-TypeScript · React · Next.js · Node.js · Python · PostgreSQL · AWS · Vercel · Docker
+TypeScript · React · Next.js · Dotnet · Python · PostgreSQL · GCP · Azure · Docker
 
 ### Our projects
 
